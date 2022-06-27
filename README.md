@@ -10,6 +10,8 @@ Uses 74HC589 SPI Shift Registers for key matrix.
 
 ![Ghoul](https://i.imgur.com/T8wp7cE.jpg)
 
+![Micromod](https://i.imgur.com/rrlYEgS.jpg)
+
 ![Top](v1.0/ghoul-top.svg)
 
 ![Bottom](v1.0/ghoul-bottom.svg)
