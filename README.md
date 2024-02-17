@@ -1,5 +1,9 @@
 # Ghoul
 
+** This repo has been archived and future work has moved to https://github.com/tzarc/keyboards/tree/main/Ghoul **
+
+---
+
 Planck-like development board for QMK, using SparkFun MicroMod for hot-swap MCU capability.
 
 `2x4x5=40` layout with encoder and RGB OLED, per-key RGB.
